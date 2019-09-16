@@ -37,11 +37,17 @@ userController
 ----
 ## REACT COMPONENTS:  
 Hierarchy: (link)  
+
+### MVP:  
 Map  
 VendorList  
 NewVendorForm  
 UpdateVendorForm  
 SingleVendor  
+
+### Post-MVP:
+UserRegister  
+UserLogin  
 
 
 ### TIMELINE: 
