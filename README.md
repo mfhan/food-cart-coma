@@ -1,8 +1,9 @@
 # food-cart-coma
-## Discover and Share Food Carts
+## Discover, Rate and Share Food Carts
 
-#### FOODIES: Do you spend your lunch time seeking out food cart fare? Are you frustrated that you can't readily find them on standard maps? Would you like to share your favorite cart locations with your foodie friends? Then jump on FoodCartComa! 
+### FOODIES: Do you spend your lunch time seeking out food cart fare? Are you frustrated that you can't readily find them on standard maps? Would you like to share your favorite cart locations with your foodie friends? Then join us in a FoodCartComa! 
 
+### VENDORS: Would you like to gain more visibility? Would you like to be featured in select, privately-shared maps made and used by foodies? Sign up! 
 
 ## VISUALS:  
 
